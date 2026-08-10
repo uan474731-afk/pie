@@ -62,7 +62,7 @@
     "@justeattakeaway/pie-modal": "1.27.5",
     "@justeattakeaway/pie-switch": "2.6.2",
     "@justeattakeaway/pie-webc-core": "17.0.0",
-    "dompurify": "3.4.8"
+    "dompurify": "3.4.13"
   },
   "customElements": "custom-elements.json",
   "sideEffects": [

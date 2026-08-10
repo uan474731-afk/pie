@@ -3721,7 +3721,7 @@ __metadata:
     "@justeattakeaway/pie-switch": "npm:2.6.2"
     "@justeattakeaway/pie-webc-core": "npm:17.0.0"
     "@justeattakeaway/pie-wrapper-react": "npm:0.14.5"
-    dompurify: "npm:3.4.8"
+    dompurify: "npm:3.4.13"
   languageName: unknown
   linkType: soft
 
@@ -4081,7 +4081,7 @@ __metadata:
     "@storybook/web-components": "npm:10.5.0"
     "@storybook/web-components-vite": "npm:10.5.0"
     "@types/dompurify": "npm:3.2.0"
-    dompurify: "npm:3.4.8"
+    dompurify: "npm:3.4.13"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-syntax-highlighter: "npm:16.1.1"
@@ -11420,7 +11420,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:*, dompurify@npm:3.4.8":
+"dompurify@npm:*":
   version: 3.4.8
   resolution: "dompurify@npm:3.4.8"
   dependencies:
@@ -11429,6 +11429,18 @@ __metadata:
     "@types/trusted-types":
       optional: true
   checksum: 10/d661322889a8938bfb99ee27853e9e78661949398e803f344865fd94f8378a494efadd329faea0b16e8085efae1bfeed5f5df372909c3a2be3e583686a0a48fa
+  languageName: node
+  linkType: hard
+
+"dompurify@npm:3.4.13":
+  version: 3.4.13
+  resolution: "dompurify@npm:3.4.13"
+  dependencies:
+    "@types/trusted-types": "npm:^2.0.7"
+  dependenciesMeta:
+    "@types/trusted-types":
+      optional: true
+  checksum: 10/0db0a309a868a38aca042f606b37446977c35ee4501850a8c1bf2781337d79871daf1f4344bbf5b545f2a8c62e4d4e192c8fd6f1ff49ecec7c865c55a0aefee3
   languageName: node
   linkType: hard
 
